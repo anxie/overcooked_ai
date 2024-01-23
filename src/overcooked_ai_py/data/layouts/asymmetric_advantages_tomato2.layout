@@ -1,9 +1,9 @@
 {
-    "grid":  """XXXXXXXXX
-                X TOXTO X
-                D   P 1 D
-                X2  X   X
-                XXXSXSXXX""",
+    "grid":  """XXXOXXXXX
+                X   XTO X
+                D  2P 1 X
+                X   D   X
+                XXXTXSXXX""",
     "start_all_orders": [
         { "ingredients" : ["onion", "onion", "onion"]},
         { "ingredients" : ["tomato", "tomato", "tomato"]},
